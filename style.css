@@ -1,0 +1,24 @@
+table {
+    width: 100%;
+}
+thead, tr, th {
+    text-align: center;
+}
+tbody, tr, td {
+    text-align: left;
+}
+
+tbody, tr, td {
+    text-align: left;
+    color: #c11212;
+}
+.jarak {
+    padding-bottom: 10px;
+}
+
+.coba {
+    color: #c11212;
+}
+
+
+
