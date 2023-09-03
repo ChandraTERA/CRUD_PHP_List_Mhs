@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../fontawesome"
+		},
+		{
+			"path": "../gambar"
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../js"
+		}
+	]
+}
